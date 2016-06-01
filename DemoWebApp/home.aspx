@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <p>test page</p>
+    <p>test page.. master edit</p>
     </div>
     </form>
 </body>
